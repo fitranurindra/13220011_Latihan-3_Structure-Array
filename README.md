@@ -1,1 +1,7 @@
-# 13220011_Latihan-3_Structure-Array
+# Latihan 3 : Structure & Array
+```shell
+  Nama    : Fitra Nurindra
+  NIM     : 13220011
+  Kelas   : 01
+  Jurusan : Teknik Elektro
+```
